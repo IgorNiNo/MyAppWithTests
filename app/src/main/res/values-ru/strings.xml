@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение с тестами</string>
+    <string name="email_label">Ваш электронный адрес:</string>
+    <string name="save">Сохранить</string>
+    <string name="email_hint">Введите ваш электронный адрес</string>
+    <string name="invalid_email">Недопустимый электронный адрес</string>
+    <string name="valid_email">Хорошо!</string>
+</resources>
